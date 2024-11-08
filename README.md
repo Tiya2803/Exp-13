@@ -62,6 +62,11 @@ int main()
 }
 ```
 
+# Output:
+
+![image](https://github.com/user-attachments/assets/a2f4a3a1-2c4b-4b31-a16e-a25f1b98311b)
+
+
 # Conclusion:
 
 → We learnt about constructor overloading in C++.
